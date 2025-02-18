@@ -1,0 +1,8 @@
+name: git-push-env
+dependencies:
+  - python=3.11.8
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - pywavelets
